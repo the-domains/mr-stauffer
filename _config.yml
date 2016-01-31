@@ -1,6 +1,6 @@
 name: Mr. Stauffer
 favicon: null
-layout_spectrum: 0.34465
+layout_spectrum: 0.49641
 typography_spectrum: 0.07731267297640443
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.6308413743972778
-  lightness: 0.15726567688398063
-  saturation: 0.734524647006765
-  rhythmicContrast: 0.7876303598750383
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
